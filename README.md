@@ -97,7 +97,7 @@ A Python game exploring artificial intelligence and decision-making using the Mi
   <a href="https://github.com/ankitraghav321" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="www.linkedin.com/in/ankit-raghavvv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:raghavankit321@gmail.com">
