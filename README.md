@@ -1,31 +1,31 @@
+# Hi 👋, I'm Ankit Raghav
 
-<h1 align="center">Hi 👋, I'm Ankit Raghav</h1>
-
-<h3 align="center">Java Backend Developer | Spring Boot | SQL | Trade Finance Technology</h3>
+### Java Backend Developer | Spring Boot | REST APIs | SQL | Trade Finance Technology
 
 <p align="center">
-  <a href="https://github.com/ankitraghav321">
-    <img src="https://komarev.com/ghpvc/?username=ankitraghav321&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ankitraghav321&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitraghav321">
-    <img src="https://github-readme-stats.vercel.app/api?username=ankitraghav321&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitraghav321&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Stats" />
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 💼 Working at **TCS** as a software professional on a Trade Finance banking project.
-- ☕ Developing my expertise in **Java, Spring Framework, Spring Boot, and backend development**.
-- 🏦 Working with enterprise banking technologies, including **JSP, Servlets, SQL, and SWIFT/ISO 20022 messaging**.
-- 🌱 Currently learning **Spring Boot, Spring Data JPA, Hibernate, REST APIs, and Microservices**.
-- 💻 Practicing Data Structures and Algorithms to strengthen problem-solving skills.
-- 🤝 Interested in collaborating on Java backend and open-source projects.
-- 🎯 Focused on becoming a stronger Java Backend Developer and building scalable applications.
-- 📂 Explore my projects: [GitHub Repositories](https://github.com/ankitraghav321?tab=repositories)
-- 📫 Reach me at: **raghavankit321@gmail.com**
+- 💼 Software Engineer at **Tata Consultancy Services (TCS)**.
+- 🏦 Working on enterprise **Trade Finance and Banking Applications**.
+- ☕ Experienced in Java, JSP, Servlets, JDBC, SQL and enterprise application development.
+- 🚀 Building backend applications using **Spring Boot, Spring Data JPA, Hibernate and REST APIs**.
+- 🗄️ Working with PostgreSQL, MySQL and Oracle databases.
+- 🌱 Currently strengthening my knowledge of Microservices Architecture and System Design.
+- 💡 Passionate about Data Structures, Algorithms and solving real-world problems.
+- 🤝 Open to collaborating on Java Backend and Full-Stack Development projects.
+- 📂 Explore my repositories: [GitHub Projects](https://github.com/ankitraghav321?tab=repositories)
+- 📫 Email: **raghavankit321@gmail.com**
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -39,47 +39,62 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" alt="PostgreSQL, MySQL, Oracle" />
 </p>
 
-### Frontend & Web Technologies
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react" alt="HTML, CSS, JavaScript, Bootstrap, React" />
 </p>
 
 ### Programming & Developer Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,idea,eclipse" alt="Python, Git, GitHub, Linux, IntelliJ IDEA, Eclipse" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,idea,eclipse,vscode,docker" alt="Python, Git, GitHub, Linux, IntelliJ, Eclipse, VS Code, Docker" />
 </p>
 
-## 🏦 Enterprise Technology Experience
+---
 
-- Trade Finance application development and maintenance
-- Java, JSP, Servlets, JDBC, and SQL
-- SWIFT messaging and ISO 20022 formats
-- XML generation and validation
-- Database integration and troubleshooting
-- IBM MQ, SOAP, and SFTP integrations
-- Banking workflow implementation and transaction processing
+## 🏦 Enterprise Banking Experience
 
-## 🚀 Projects
+Working on enterprise Trade Finance applications with exposure to:
+
+- Trade Finance workflows and banking transaction processing.
+- Import LC Issuance, Import LC Bills and Import Collections.
+- Export Collections and Export LC Advising.
+- Inland LC Issuance and Inland LC Bills.
+- SWIFT messaging and ISO 20022 formats.
+- XML generation, parsing and validation.
+- Java, JSP, Servlets, JDBC and SQL.
+- IBM MQ, SOAP and SFTP integrations.
+- Database integration and production issue troubleshooting.
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 Dev Job Application
+A job application management project focused on backend development, application workflows and database integration.
+
+🔗 [View Repository](https://github.com/ankitraghav321/Dev-Job-Application)
 
 ### ☕ Spring JDBC Project
-Exploring database connectivity and SQL operations using Spring JDBC and Java.
+Exploring database connectivity, JDBC operations and SQL integration using Spring Framework.
 
 🔗 [View Repository](https://github.com/ankitraghav321/spring-jdbc-project)
 
 ### 🛒 Spring E-Commerce Project
-Building an e-commerce backend using Spring Boot, Spring Data JPA, and PostgreSQL.
+Developing an e-commerce backend using Spring Boot, Spring Data JPA and PostgreSQL.
 
 🔗 [View Repository](https://github.com/ankitraghav321/spring-ecom-project)
 
 ### 🗄️ Spring Data JPA Project
-Practicing object-relational mapping and repository-based database access with Spring Data JPA.
+Practicing ORM concepts, entity relationships, repository patterns and database operations using Spring Data JPA.
 
 🔗 [View Repository](https://github.com/ankitraghav321/spring-data-Jpa-project)
 
 ### 🎮 AI Tic-Tac-Toe
-A Python game exploring artificial intelligence and decision-making using the Minimax algorithm.
+A Python-based game implementing the Minimax algorithm to explore AI decision-making.
 
-🔗 [Explore My Repositories](https://github.com/ankitraghav321?tab=repositories)
+🔗 [Explore GitHub Repositories](https://github.com/ankitraghav321?tab=repositories)
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -91,13 +106,15 @@ A Python game exploring artificial intelligence and decision-making using the Mi
   <img src="https://streak-stats.demolab.com?user=ankitraghav321&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+---
+
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/ankitraghav321" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[www.linkedin.com/in/ankit-raghavvv/](https://www.linkedin.com/in/ankit-raghavvv/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-raghavvv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:raghavankit321@gmail.com">
@@ -109,4 +126,8 @@ A Python game exploring artificial intelligence and decision-making using the Mi
 
 <p align="center">
   💡 <b>Keep Learning • Keep Building • Keep Growing</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
